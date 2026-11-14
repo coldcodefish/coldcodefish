@@ -1,5 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
+a student, just studying.
 <!--
 **coldcodefish/coldcodefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
