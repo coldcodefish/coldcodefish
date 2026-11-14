@@ -1,6 +1,8 @@
-# Hi there 👋
+## Hi there 👋
 
-a student, just studying.
+A student, just studying.
+
+We'll chat again when we have the chance.(其他的有缘再聊)
 <!--
 **coldcodefish/coldcodefish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
